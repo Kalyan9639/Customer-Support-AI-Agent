@@ -57,7 +57,7 @@ The trained model is available here:
 
 ## Performance
 
-![image](test.png)
+![image](test_metrics.png)
 
 <!-- | Metric     | Score |
 |-----------|------|
