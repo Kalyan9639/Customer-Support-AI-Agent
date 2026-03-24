@@ -1,0 +1,1002 @@
+{
+  "activate_my_card": [
+    "Dear {user_name}, you can activate your card by logging into the Bank of Baroda mobile app and selecting 'Card Services' → 'Activate Card'.",
+    "To activate your card, please visit the nearest Bank of Baroda ATM and follow the on-screen instructions using your PIN.",
+    "Kindly call our customer care and follow IVR instructions to activate your card securely.",
+    "Ensure your registered mobile number is active before attempting card activation through the app.",
+    "If you have received a new card, activation is mandatory before first use. Please complete it via app or ATM.",
+    "In case of failure, please try again after some time or restart the application.",
+    "If activation is unsuccessful, kindly visit your home branch with valid ID proof.",
+    "Please ensure your card details are entered correctly during activation.",
+    "For further assistance, contact customer support or visit the nearest branch.",
+    "Activation usually completes instantly; however, delays may occur due to network issues."
+  ],
+
+  "age_limit": [
+    "Dear {user_name}, the minimum age to open a Bank of Baroda account is generally 18 years.",
+    "For minors, accounts can be opened under guardian supervision as per bank policies.",
+    "Senior citizen benefits are applicable for customers above 60 years of age.",
+    "Kindly visit your nearest branch for detailed eligibility criteria based on account type.",
+    "Age requirements may vary depending on the financial product you choose.",
+    "Please carry valid age proof such as Aadhaar or PAN card during account opening.",
+    "Certain digital services may require customers to be 18 years or older.",
+    "For student accounts, special provisions may be available.",
+    "If you do not meet the age criteria, you may open a joint account with a guardian.",
+    "For further clarification, please contact our support team."
+  ],
+
+  "apple_pay_or_google_pay": [
+    "Dear {user_name}, Bank of Baroda cards can be linked to supported digital wallets like Google Pay.",
+    "To add your card, open the Google Pay app and navigate to 'Payment Methods' → 'Add Card'.",
+    "Ensure your mobile number is registered with the bank for OTP verification.",
+    "Currently, Apple Pay support may be limited based on region and device compatibility.",
+    "Please ensure your card is active before linking to any wallet.",
+    "In case of linking failure, check your internet connection and try again.",
+    "If the issue persists, please contact customer care.",
+    "Make sure your card supports online and contactless transactions.",
+    "OTP verification is mandatory for successful linking.",
+    "Visit the nearest branch if you need further assistance."
+  ],
+
+  "atm_support": [
+    "Dear {user_name}, Bank of Baroda cards are supported at all major ATMs across India.",
+    "You can withdraw cash, check balance, and generate mini statements at supported ATMs.",
+    "Ensure your card is active and PIN is correctly entered during transactions.",
+    "Charges may apply for transactions beyond free limits as per bank policy.",
+    "If an ATM transaction fails, the amount will be reversed within 3–5 working days.",
+    "Please avoid using damaged cards at ATMs.",
+    "In case your card is retained by the ATM, immediately contact customer support.",
+    "Ensure the ATM is secure before performing transactions.",
+    "For international usage, enable international transactions via app or branch.",
+    "For further help, visit your nearest Bank of Baroda branch."
+  ],
+
+  "automatic_top_up": [
+    "Dear {user_name}, automatic top-up can be enabled via the Bank of Baroda mobile app under 'Settings'.",
+    "You can set a minimum balance threshold and link a funding account for auto top-up.",
+    "Ensure sufficient funds are available in your linked account.",
+    "Auto top-up requests may take a few minutes to process.",
+    "In case of failure, please verify your linked account details.",
+    "You may disable this feature anytime from the app.",
+    "Please ensure your account is active and not restricted.",
+    "Charges may apply based on bank policies.",
+    "If the issue persists, contact customer support.",
+    "Visit your nearest branch for manual assistance."
+  ],
+
+  "balance_not_updated_after_bank_transfer": [
+    "Dear {user_name}, balance updates may take some time depending on the transfer method used.",
+    "NEFT/RTGS transactions are usually processed within a few hours.",
+    "IMPS transfers are typically instant, but delays may occur due to network issues.",
+    "Please refresh your app or log out and log in again.",
+    "Kindly verify the transaction status from the sender’s bank.",
+    "If the amount is debited but not credited, it will be reversed within 3–5 working days.",
+    "Please check your transaction history for confirmation.",
+    "Ensure correct account details were entered.",
+    "If the issue persists, contact customer support with transaction ID {transaction_id}.",
+    "You may also visit your branch for assistance."
+  ],
+
+  "balance_not_updated_after_cheque_or_cash_deposit": [
+    "Dear {user_name}, cheque deposits may take 1–3 working days for clearance.",
+    "Cash deposits are usually reflected instantly; however, delays may occur due to system updates.",
+    "Please verify the deposit slip details.",
+    "Ensure the cheque is valid and not post-dated.",
+    "In case of delay, please contact your branch.",
+    "Kindly check your account statement after some time.",
+    "Cheque clearance depends on the issuing bank.",
+    "If the cheque is returned, you will be notified.",
+    "For urgent issues, visit your nearest branch.",
+    "Contact support if the issue persists."
+  ],
+
+  "beneficiary_not_allowed": [
+    "Dear {user_name}, beneficiary addition may be restricted due to security reasons.",
+    "Please ensure the beneficiary details are correct.",
+    "New beneficiaries may require a cooling period before transactions.",
+    "Kindly verify OTP during beneficiary addition.",
+    "If the issue persists, please try again later.",
+    "Ensure your account is fully verified.",
+    "You may need to enable beneficiary addition via app settings.",
+    "Contact customer support if you are unable to add a beneficiary.",
+    "Visit your branch for manual beneficiary addition.",
+    "Ensure there are no restrictions on your account."
+  ],
+
+  "cancel_transfer": [
+    "Dear {user_name}, transfers once initiated cannot always be canceled.",
+    "If the transfer is pending, you may cancel it via the app.",
+    "IMPS transactions are instant and cannot be reversed.",
+    "NEFT transactions may be canceled before processing.",
+    "Please check transaction status in your app.",
+    "If debited incorrectly, the amount will be refunded as per policy.",
+    "Contact customer support immediately for assistance.",
+    "Provide transaction ID {transaction_id} for faster resolution.",
+    "Visit your branch if urgent action is required.",
+    "Ensure details are verified before initiating transfers."
+  ],
+
+  "card_about_to_expire": [
+    "Dear {user_name}, your card will expire soon. A replacement card will be issued automatically.",
+    "Please ensure your address is updated for timely delivery.",
+    "You may continue using your current card until expiry.",
+    "Activate your new card once received.",
+    "Destroy your old card securely after activation of the new one.",
+    "If you do not receive your card, contact customer support.",
+    "You can track card delivery via the app.",
+    "Ensure your mobile number is updated for notifications.",
+    "Visit your branch if you need urgent replacement.",
+    "Contact support for any issues."
+  ],
+
+  "card_acceptance": [
+    "Dear {user_name}, Bank of Baroda cards are widely accepted across merchants in India and internationally.",
+    "You can use your card at POS terminals, online platforms, and ATMs supporting Visa or Mastercard.",
+    "Please ensure your card is enabled for online and international transactions.",
+    "In case your card is declined, verify transaction limits and settings.",
+    "Some merchants may not accept certain card types due to network restrictions.",
+    "Ensure sufficient balance before attempting transactions.",
+    "Contact customer support if your card is not accepted at a valid merchant.",
+    "Enable contactless payments for faster transactions where available.",
+    "Check with the merchant if their payment terminal supports your card type.",
+    "Visit your branch for further clarification."
+  ],
+
+  "card_arrival": [
+    "Dear {user_name}, your card will be delivered to your registered address within 7–10 working days.",
+    "You can track your card delivery status through the Bank of Baroda mobile app.",
+    "Ensure your address details are updated for timely delivery.",
+    "In case of delay, please contact customer support.",
+    "If your card is not received within the expected timeframe, kindly report the issue.",
+    "Delivery timelines may vary depending on location.",
+    "You will receive SMS updates regarding card dispatch.",
+    "Please ensure someone is available to receive the card.",
+    "If undelivered, the card may be returned to the branch.",
+    "Visit your nearest branch for assistance if required."
+  ],
+
+  "card_delivery_estimate": [
+    "Dear {user_name}, your card delivery typically takes 7–10 working days.",
+    "Delivery timelines may vary based on your location and courier service.",
+    "You can check estimated delivery time via the mobile app.",
+    "SMS updates will be sent regarding dispatch and delivery.",
+    "Ensure your address is correct to avoid delays.",
+    "In case of delay, please contact customer support.",
+    "Public holidays may affect delivery timelines.",
+    "You may track the shipment using the provided tracking ID.",
+    "If not received, please report after the expected delivery period.",
+    "Visit your branch if urgent assistance is required."
+  ],
+
+  "card_linking": [
+    "Dear {user_name}, you can link your card to your account via the Bank of Baroda mobile app.",
+    "Navigate to 'Card Services' and select 'Link Card' to proceed.",
+    "Ensure your registered mobile number is active for OTP verification.",
+    "Enter correct card details during linking.",
+    "Linking may take a few minutes to complete.",
+    "If linking fails, please try again after some time.",
+    "Ensure your card is active before linking.",
+    "Contact support if the issue persists.",
+    "You may visit your branch for manual assistance.",
+    "Check your internet connection during the process."
+  ],
+
+  "card_not_working": [
+    "Dear {user_name}, please ensure your card is active and not expired.",
+    "Check if your card has sufficient balance for the transaction.",
+    "Verify that your PIN is entered correctly.",
+    "Ensure your card is enabled for the type of transaction (online/international).",
+    "Try using the card at another terminal or ATM.",
+    "Check for any temporary restrictions on your account.",
+    "If the issue persists, block and request a replacement card.",
+    "Contact customer support for immediate assistance.",
+    "Visit your nearest branch if needed.",
+    "Network issues may sometimes cause temporary failures."
+  ],
+
+  "card_payment_fee_charged": [
+    "Dear {user_name}, certain transactions may attract charges as per bank policy.",
+    "Please review your transaction details in the statement.",
+    "Charges may apply for international or currency conversion transactions.",
+    "Ensure you are aware of applicable fees before making payments.",
+    "If you believe the charge is incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Charges are usually displayed before confirming the transaction.",
+    "Visit your branch for further clarification.",
+    "Refunds for incorrect charges will be processed as per policy.",
+    "Refer to the bank’s fee schedule for more details."
+  ],
+
+  "card_payment_not_recognised": [
+    "Dear {user_name}, please check your transaction history for the payment details.",
+    "Sometimes transactions may take time to reflect in your account.",
+    "Ensure the correct merchant name is verified.",
+    "If you do not recognize the transaction, report it immediately.",
+    "Block your card if you suspect unauthorized usage.",
+    "Contact customer support with transaction ID {transaction_id}.",
+    "Check if the payment was made through a linked wallet or subscription.",
+    "Review SMS or email notifications for confirmation.",
+    "Visit your branch for further assistance.",
+    "Disputes can be raised for unrecognized transactions."
+  ],
+
+  "card_payment_wrong_exchange_rate": [
+    "Dear {user_name}, exchange rates are determined based on market rates and applicable charges.",
+    "Differences may occur due to currency conversion fees.",
+    "Please review the transaction details in your statement.",
+    "Exchange rates may vary at the time of processing.",
+    "If you believe the rate applied is incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Ensure you are aware of applicable forex charges.",
+    "Refunds, if applicable, will be processed as per policy.",
+    "Visit your branch for further clarification.",
+    "Refer to bank guidelines for international transactions."
+  ],
+
+  "card_swallowed": [
+    "Dear {user_name}, if your card has been retained by an ATM, please contact customer support immediately.",
+    "Visit the branch associated with the ATM for assistance.",
+    "Block your card temporarily to prevent misuse.",
+    "You may request a replacement card if necessary.",
+    "Ensure you carry valid ID proof when visiting the branch.",
+    "Do not leave the ATM location without reporting the issue.",
+    "ATM retention may occur due to incorrect PIN attempts or technical issues.",
+    "Recovery timelines depend on the ATM provider.",
+    "If urgent, request a new card via app or branch.",
+    "Contact customer care for further guidance."
+  ],
+
+  "cash_withdrawal_charge": [
+    "Dear {user_name}, cash withdrawal charges may apply after exceeding free transaction limits.",
+    "Charges vary based on ATM type (Bank of Baroda or other banks).",
+    "Please refer to the bank’s fee schedule for details.",
+    "Ensure you are aware of limits before withdrawing cash.",
+    "Charges will be reflected in your account statement.",
+    "If you believe charges are incorrect, contact support.",
+    "Provide transaction details for verification.",
+    "Use Bank of Baroda ATMs to minimize charges.",
+    "Visit your branch for further clarification.",
+    "Charges are subject to RBI guidelines."
+  ],
+
+  "cash_withdrawal_not_recognised": [
+    "Dear {user_name}, please check your recent transactions in the account statement.",
+    "If you do not recognize a withdrawal, report it immediately to customer support.",
+    "Kindly verify if the transaction was performed using your card or through a linked account.",
+    "Block your card immediately if unauthorized usage is suspected.",
+    "Provide transaction ID {transaction_id} for investigation.",
+    "Dispute requests can be raised for unauthorized withdrawals.",
+    "Ensure your card and PIN details are secure.",
+    "The bank will investigate and update you within the stipulated time.",
+    "Visit your nearest branch for assistance.",
+    "You may receive updates via SMS or email regarding the investigation."
+  ],
+
+  "change_pin": [
+    "Dear {user_name}, you can change your PIN at any Bank of Baroda ATM.",
+    "Insert your card, select 'PIN Change', and follow the instructions.",
+    "You may also change your PIN via the mobile banking app.",
+    "Ensure your registered mobile number is active for OTP verification.",
+    "Do not share your PIN with anyone for security reasons.",
+    "Choose a strong and unique PIN for better protection.",
+    "If you forget your PIN, use the 'Reset PIN' option.",
+    "In case of issues, contact customer support.",
+    "Visit your branch for manual assistance if required.",
+    "Ensure your card is active before attempting PIN change."
+  ],
+
+  "compromised_card": [
+    "Dear {user_name}, if your card is compromised, please block it immediately via the app or customer care.",
+    "Request a replacement card to prevent further unauthorized usage.",
+    "Review recent transactions and report any suspicious activity.",
+    "Ensure your PIN and card details are not shared with anyone.",
+    "The bank will assist you in securing your account.",
+    "Dispute unauthorized transactions with transaction ID {transaction_id}.",
+    "Enable transaction alerts for better monitoring.",
+    "Visit your branch if immediate assistance is required.",
+    "Your safety and security are our priority.",
+    "Follow up with customer support for status updates."
+  ],
+
+  "contactless_not_working": [
+    "Dear {user_name}, ensure your card supports contactless payments.",
+    "Check if contactless functionality is enabled in your card settings.",
+    "Try tapping your card on a compatible POS terminal.",
+    "Ensure the transaction amount is within contactless limits.",
+    "If unsuccessful, insert your card and use PIN for the transaction.",
+    "Contactless features may be temporarily disabled for security reasons.",
+    "Enable the feature via the mobile app if required.",
+    "If the issue persists, contact customer support.",
+    "Visit your branch for further assistance.",
+    "You may request a replacement card if needed."
+  ],
+
+  "country_support": [
+    "Dear {user_name}, Bank of Baroda services are available in multiple countries.",
+    "International transactions can be enabled via the mobile app.",
+    "Please ensure your card is activated for international usage.",
+    "Certain countries may have restrictions based on regulations.",
+    "Check supported regions before initiating transactions.",
+    "Foreign exchange charges may apply.",
+    "Contact customer support for country-specific queries.",
+    "Ensure compliance with RBI guidelines for international usage.",
+    "Visit your branch for further clarification.",
+    "Refer to official bank documentation for supported countries."
+  ],
+
+  "declined_card_payment": [
+    "Dear {user_name}, your card payment may have been declined due to insufficient balance.",
+    "Please ensure your card is active and not blocked.",
+    "Check if your transaction exceeds the set limit.",
+    "Verify that online or international transactions are enabled.",
+    "Retry the transaction after some time.",
+    "Ensure correct PIN or OTP is entered.",
+    "Temporary network issues may also cause declines.",
+    "Contact customer support if the issue persists.",
+    "Visit your branch for further assistance.",
+    "Check your account status for any restrictions."
+  ],
+
+  "declined_cash_withdrawal": [
+    "Dear {user_name}, your withdrawal may have been declined due to insufficient balance.",
+    "Ensure your card is active and PIN is correct.",
+    "Check if you have exceeded daily withdrawal limits.",
+    "Try using another ATM if the issue persists.",
+    "Network issues may cause temporary failures.",
+    "Ensure your account has no restrictions.",
+    "Contact customer support for assistance.",
+    "Visit your branch if required.",
+    "Check your account statement for details.",
+    "Retry after some time."
+  ],
+
+  "declined_transfer": [
+    "Dear {user_name}, your transfer may have been declined due to insufficient balance.",
+    "Please verify beneficiary details before retrying.",
+    "Ensure your account has no restrictions.",
+    "Check if you have exceeded transaction limits.",
+    "Network issues may cause temporary failures.",
+    "Retry the transaction after some time.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction details for assistance.",
+    "Visit your branch if required.",
+    "Ensure compliance with bank policies."
+  ],
+
+  "direct_debit_payment_not_recognised": [
+    "Dear {user_name}, please review your account statement for direct debit details.",
+    "Ensure the debit is from an authorized service provider.",
+    "If unrecognized, report it immediately to customer support.",
+    "You may cancel the mandate via the app or branch.",
+    "Provide transaction ID {transaction_id} for investigation.",
+    "Block unauthorized mandates if necessary.",
+    "Check for subscriptions linked to your account.",
+    "Disputes can be raised for unauthorized debits.",
+    "Visit your branch for assistance.",
+    "Follow up with customer support for updates."
+  ],
+
+  "disposable_card_limits": [
+    "Dear {user_name}, disposable card limits are set as per bank policy.",
+    "You can view and manage limits via the mobile app.",
+    "Ensure your transactions are within the allowed limit.",
+    "Disposable cards are designed for secure online transactions.",
+    "Limits may vary based on account type.",
+    "Contact customer support for limit-related queries.",
+    "Ensure your account is fully verified.",
+    "Exceeding limits may result in transaction failure.",
+    "Visit your branch for further assistance.",
+    "Refer to bank guidelines for detailed information."
+  ],
+
+  "edit_personal_details": [
+    "Dear {user_name}, you can update your personal details via the Bank of Baroda mobile app under 'Profile Settings'.",
+    "Ensure your registered mobile number is active for OTP verification.",
+    "You may update details such as address, email, and contact number.",
+    "Certain changes may require supporting documents for verification.",
+    "Please ensure all details entered are accurate and up to date.",
+    "In case of failure, try again after some time.",
+    "Visit your nearest branch for updates requiring physical verification.",
+    "Ensure your KYC is complete before making changes.",
+    "Contact customer support for assistance if needed.",
+    "Changes may take some time to reflect in the system."
+  ],
+
+  "exchange_charge": [
+    "Dear {user_name}, exchange charges apply when converting currencies during transactions.",
+    "These charges are based on prevailing rates and bank policies.",
+    "Please review applicable fees before initiating international transactions.",
+    "Charges will be reflected in your account statement.",
+    "Ensure you are aware of forex markup fees.",
+    "If you have concerns, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Visit your branch for further clarification.",
+    "Refer to bank guidelines for detailed fee structure.",
+    "Charges may vary depending on transaction type."
+  ],
+
+  "exchange_rate": [
+    "Dear {user_name}, exchange rates are determined based on market conditions.",
+    "Rates may vary at the time of transaction processing.",
+    "Please check the latest rates via the Bank of Baroda app or website.",
+    "Currency conversion charges may also apply.",
+    "Ensure you review rates before confirming transactions.",
+    "For large transactions, rates may differ slightly.",
+    "Contact customer support for specific queries.",
+    "Visit your branch for detailed information.",
+    "Rates are subject to change without prior notice.",
+    "Refer to official bank channels for accurate rates."
+  ],
+
+  "exchange_via_app": [
+    "Dear {user_name}, you can perform currency exchange via the Bank of Baroda mobile app.",
+    "Navigate to 'Forex Services' and select the desired currency.",
+    "Ensure sufficient balance before initiating exchange.",
+    "Review exchange rates and charges before confirming.",
+    "Transactions may take a few minutes to process.",
+    "Ensure your account is enabled for international services.",
+    "If the issue persists, contact customer support.",
+    "Visit your branch for assistance if required.",
+    "Keep your app updated for smooth functionality.",
+    "Follow RBI guidelines for forex transactions."
+  ],
+
+  "extra_charge_on_statement": [
+    "Dear {user_name}, please review your account statement for detailed transaction charges.",
+    "Certain services may attract fees as per bank policy.",
+    "Ensure you check the fee structure applicable to your account.",
+    "If you believe the charge is incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for investigation.",
+    "Charges may include taxes, service fees, or penalties.",
+    "Refunds, if applicable, will be processed as per policy.",
+    "Visit your branch for further clarification.",
+    "Refer to official documentation for fee details.",
+    "Follow up with support for updates."
+  ],
+
+  "failed_transfer": [
+    "Dear {user_name}, your transfer may have failed due to network or system issues.",
+    "Please check if the amount has been debited from your account.",
+    "If debited, it will be refunded within 3–5 working days.",
+    "Ensure beneficiary details are correct before retrying.",
+    "Check your transaction history for status updates.",
+    "Retry the transfer after some time.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch for further help.",
+    "Ensure sufficient balance before initiating transfers."
+  ],
+
+  "fiat_currency_support": [
+    "Dear {user_name}, Bank of Baroda supports multiple fiat currencies for international transactions.",
+    "You can check supported currencies via the mobile app or website.",
+    "Ensure your account is enabled for forex services.",
+    "Currency availability may vary based on regulations.",
+    "Charges may apply for currency conversion.",
+    "Contact customer support for specific queries.",
+    "Visit your branch for detailed information.",
+    "Ensure compliance with RBI guidelines.",
+    "Refer to official bank documentation for supported currencies.",
+    "Transactions may be subject to limits."
+  ],
+
+  "get_disposable_virtual_card": [
+    "Dear {user_name}, you can generate a disposable virtual card via the Bank of Baroda app.",
+    "Navigate to 'Card Services' and select 'Virtual Card'.",
+    "Disposable cards are useful for secure online transactions.",
+    "Ensure your account is active and verified.",
+    "Follow on-screen instructions to generate the card.",
+    "Card details will be available instantly after generation.",
+    "Use the card within the validity period.",
+    "Contact support if you face any issues.",
+    "Visit your branch for assistance if required.",
+    "Keep your card details confidential."
+  ],
+
+  "get_physical_card": [
+    "Dear {user_name}, you can request a physical card via the Bank of Baroda app or branch.",
+    "Navigate to 'Card Services' and select 'Request Card'.",
+    "Ensure your address is updated for delivery.",
+    "Delivery may take 7–10 working days.",
+    "Charges may apply as per bank policy.",
+    "Track delivery status via the app.",
+    "Contact customer support if delayed.",
+    "Visit your branch for urgent requests.",
+    "Ensure your account is active.",
+    "You will receive SMS updates regarding dispatch."
+  ],
+
+  "getting_spare_card": [
+    "Dear {user_name}, you can request a spare card via the Bank of Baroda app.",
+    "Navigate to 'Card Services' and select 'Request Additional Card'.",
+    "Ensure your account is eligible for multiple cards.",
+    "Charges may apply for additional cards.",
+    "Delivery timelines are similar to primary cards.",
+    "Track your card via the app.",
+    "Contact support if you face any issues.",
+    "Visit your branch for assistance.",
+    "Ensure your details are updated.",
+    "Follow bank guidelines for card issuance."
+  ],
+
+  "getting_virtual_card": [
+    "Dear {user_name}, you can generate a virtual card via the Bank of Baroda mobile app.",
+    "Navigate to 'Card Services' and select 'Generate Virtual Card'.",
+    "Ensure your account is active and fully verified.",
+    "Virtual cards are ideal for secure online transactions.",
+    "Card details will be available instantly after generation.",
+    "Ensure you keep your card details confidential.",
+    "Use the card within its validity period.",
+    "Contact customer support if you face any issues.",
+    "Visit your branch for further assistance if required.",
+    "Ensure your registered mobile number is active for OTP verification."
+  ],
+
+  "lost_or_stolen_card": [
+    "Dear {user_name}, please block your card immediately via the mobile app or customer care.",
+    "Report the loss or theft to prevent unauthorized transactions.",
+    "Request a replacement card through the app or by visiting your branch.",
+    "Review recent transactions and report any suspicious activity.",
+    "Ensure your PIN and card details remain confidential.",
+    "You may temporarily block the card if unsure.",
+    "Contact customer support for urgent assistance.",
+    "Visit your nearest branch with valid ID proof if required.",
+    "Replacement card delivery may take 7–10 working days.",
+    "Follow up with support for updates."
+  ],
+
+  "lost_or_stolen_phone": [
+    "Dear {user_name}, if your phone is lost or stolen, please block your mobile banking access immediately.",
+    "Contact customer support to secure your account.",
+    "Change your login credentials as soon as possible.",
+    "Ensure your SIM is blocked to prevent misuse.",
+    "Reinstall the banking app on your new device and re-register.",
+    "Enable additional security features like app lock.",
+    "Monitor your account for any unauthorized transactions.",
+    "Visit your branch if immediate assistance is required.",
+    "Your account security is our priority.",
+    "Follow up with support for further guidance."
+  ],
+
+  "order_physical_card": [
+    "Dear {user_name}, you can order a physical card via the Bank of Baroda mobile app.",
+    "Navigate to 'Card Services' and select 'Order Card'.",
+    "Ensure your delivery address is updated.",
+    "Delivery may take 7–10 working days.",
+    "Charges may apply as per bank policy.",
+    "Track your order status via the app.",
+    "Contact customer support if delayed.",
+    "Visit your branch for urgent requests.",
+    "Ensure your account is active.",
+    "You will receive SMS updates regarding dispatch."
+  ],
+
+  "passcode_forgotten": [
+    "Dear {user_name}, you can reset your passcode using the 'Forgot Passcode' option in the app.",
+    "Follow the on-screen instructions to verify your identity.",
+    "Ensure your registered mobile number is active for OTP verification.",
+    "Choose a strong and secure passcode.",
+    "Do not share your passcode with anyone.",
+    "If unable to reset, contact customer support.",
+    "Visit your branch for manual assistance if required.",
+    "Ensure your account is not locked due to multiple attempts.",
+    "Retry after some time if the system is busy.",
+    "Keep your login credentials confidential."
+  ],
+
+  "pending_card_payment": [
+    "Dear {user_name}, your card payment may be pending due to processing delays.",
+    "Please allow some time for the transaction to complete.",
+    "Check your transaction history for updates.",
+    "Ensure sufficient balance in your account.",
+    "Pending transactions are usually settled within a few hours.",
+    "If the issue persists, contact customer support.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Do not initiate duplicate payments while pending.",
+    "Visit your branch for further clarification.",
+    "You will receive confirmation once processed."
+  ],
+
+  "pending_cash_withdrawal": [
+    "Dear {user_name}, your cash withdrawal may be pending due to technical issues.",
+    "Please check your account balance and transaction history.",
+    "If the amount is debited, it will be reversed within 3–5 working days.",
+    "Ensure the ATM transaction was completed successfully.",
+    "Retry withdrawal after some time if needed.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch if required.",
+    "Keep the transaction receipt for reference.",
+    "Follow up with support for updates."
+  ],
+
+  "pending_top_up": [
+    "Dear {user_name}, your top-up may be pending due to processing delays.",
+    "Please allow some time for the transaction to reflect.",
+    "Check your account or app for status updates.",
+    "Ensure the payment method used is valid.",
+    "Pending top-ups are usually completed within a few hours.",
+    "If debited but not credited, the amount will be reversed.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction details for assistance.",
+    "Visit your branch if required.",
+    "Avoid initiating duplicate transactions."
+  ],
+
+  "pending_transfer": [
+    "Dear {user_name}, your transfer may be pending due to processing delays.",
+    "NEFT transactions may take some time to complete.",
+    "Check your transaction status in the app.",
+    "Ensure beneficiary details are correct.",
+    "If debited, the amount will be credited or reversed accordingly.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch for further help.",
+    "Avoid duplicate transfers while pending.",
+    "You will receive confirmation once processed."
+  ],
+
+  "pin_blocked": [
+    "Dear {user_name}, your PIN may be blocked due to multiple incorrect attempts.",
+    "You can reset your PIN via the Bank of Baroda ATM or mobile app.",
+    "Ensure your registered mobile number is active for OTP verification.",
+    "Wait for a cooling period before retrying if required.",
+    "Do not share your PIN with anyone.",
+    "Choose a secure and unique PIN.",
+    "Contact customer support if unable to reset.",
+    "Visit your branch for manual assistance.",
+    "Ensure your card is active before resetting PIN.",
+    "Follow security guidelines to avoid future issues."
+  ],
+
+  "receiving_money": [
+    "Dear {user_name}, you can receive money directly into your Bank of Baroda account using your account number and IFSC code.",
+    "Ensure the sender enters correct account details to avoid delays.",
+    "IMPS transfers are usually instant, while NEFT may take a few hours.",
+    "You will receive SMS confirmation once the amount is credited.",
+    "Check your account statement for transaction details.",
+    "If the amount is not received, verify with the sender’s bank.",
+    "Ensure your account is active and not restricted.",
+    "Contact customer support if the issue persists.",
+    "Visit your branch for further assistance.",
+    "Keep transaction reference {transaction_id} for tracking."
+  ],
+
+  "Refund_not_showing_up": [
+    "Dear {user_name}, refunds may take 3–7 working days to reflect in your account.",
+    "Please check your account statement for updates.",
+    "Refund timelines depend on the merchant and payment method.",
+    "Ensure the refund has been initiated by the merchant.",
+    "If delayed, contact customer support with transaction ID {transaction_id}.",
+    "Check SMS or email notifications for confirmation.",
+    "Refunds may be processed in parts in some cases.",
+    "Visit your branch if the issue persists.",
+    "Follow up with the merchant for status updates.",
+    "The bank will assist in tracking the refund if required."
+  ],
+
+  "request_refund": [
+    "Dear {user_name}, to request a refund, please contact the merchant where the transaction was made.",
+    "If the issue is unresolved, you may raise a dispute with the bank.",
+    "Provide transaction ID {transaction_id} for faster processing.",
+    "Refund eligibility depends on transaction type and merchant policy.",
+    "The bank will investigate the request as per guidelines.",
+    "Ensure all transaction details are correct before submitting a request.",
+    "You will receive updates via SMS or email.",
+    "Visit your branch for assistance if required.",
+    "Refund processing may take several working days.",
+    "Contact customer support for further guidance."
+  ],
+
+  "reverted_card_payment?": [
+    "Dear {user_name}, a reverted payment indicates that the transaction was unsuccessful and the amount has been returned.",
+    "Please check your account statement for confirmation.",
+    "Reversals are usually processed within 3–5 working days.",
+    "If the amount is not credited, contact customer support.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Network or merchant issues may cause reversals.",
+    "Ensure sufficient balance before retrying the transaction.",
+    "Visit your branch if the issue persists.",
+    "Avoid duplicate transactions while awaiting reversal.",
+    "Follow up with support for updates."
+  ],
+
+  "supported_cards_and_currencies": [
+    "Dear {user_name}, Bank of Baroda supports major card networks such as Visa and Mastercard.",
+    "Transactions can be performed in multiple currencies depending on your card type.",
+    "Ensure your card is enabled for international usage.",
+    "Currency conversion charges may apply.",
+    "Check supported currencies via the bank’s website or app.",
+    "Certain restrictions may apply based on regulations.",
+    "Contact customer support for specific queries.",
+    "Visit your branch for detailed information.",
+    "Ensure compliance with RBI guidelines.",
+    "Refer to official documentation for more details."
+  ],
+
+  "terminate_account": [
+    "Dear {user_name}, to close your account, please visit your nearest Bank of Baroda branch.",
+    "Ensure all pending transactions are settled before closure.",
+    "Carry valid ID proof for verification.",
+    "Submit a written request for account termination.",
+    "Any remaining balance will be settled as per bank policy.",
+    "Ensure all linked services are deactivated.",
+    "Contact customer support for guidance before closure.",
+    "Account closure may take a few working days.",
+    "Visit your branch for further assistance.",
+    "Follow bank procedures to complete the process."
+  ],
+
+  "top_up_by_bank_transfer_charge": [
+    "Dear {user_name}, top-up via bank transfer may not attract charges within Bank of Baroda.",
+    "Charges may apply for interbank transfers depending on the method used.",
+    "Please check the applicable fee structure before initiating the transfer.",
+    "NEFT/RTGS charges are as per RBI guidelines.",
+    "Review your account statement for applied charges.",
+    "If you notice discrepancies, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Visit your branch for further clarification.",
+    "Refer to official documentation for fee details.",
+    "Charges may vary based on transaction type."
+  ],
+
+  "top_up_by_card_charge": [
+    "Dear {user_name}, top-up using a card may attract charges depending on the card type.",
+    "Please review applicable fees before confirming the transaction.",
+    "Charges will be displayed prior to payment confirmation.",
+    "Ensure your card supports such transactions.",
+    "Check your account statement for details.",
+    "If charges appear incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch for further clarification.",
+    "Refer to bank policies for fee structure.",
+    "Charges may vary depending on the issuing bank."
+  ],
+
+  "top_up_by_cash_or_cheque": [
+    "Dear {user_name}, you can top up your account by depositing cash or cheque at your branch.",
+    "Cash deposits are usually credited instantly.",
+    "Cheque deposits may take 1–3 working days for clearance.",
+    "Ensure correct account details are mentioned on the deposit slip.",
+    "Keep the receipt for reference.",
+    "If delays occur, contact your branch.",
+    "Ensure the cheque is valid and signed.",
+    "Visit your branch for assistance if required.",
+    "Check your account statement for updates.",
+    "Follow bank procedures for smooth processing."
+  ],
+
+  "top_up_failed": [
+    "Dear {user_name}, your top-up may have failed due to network or system issues.",
+    "Please check if the amount has been debited from your account.",
+    "If debited, it will be refunded within 3–5 working days.",
+    "Ensure your payment details are correct before retrying.",
+    "Check your transaction history for status updates.",
+    "Retry the transaction after some time.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch if required.",
+    "Ensure sufficient balance before attempting again."
+  ],
+
+  "top_up_limits": [
+    "Dear {user_name}, top-up limits are defined as per Bank of Baroda policies.",
+    "You can view your current limits via the mobile app under 'Account Settings'.",
+    "Limits may vary based on account type and verification status.",
+    "Ensure your transactions are within the permitted limits.",
+    "Exceeding limits may result in transaction failure.",
+    "You may request a limit increase by contacting customer support.",
+    "Certain regulatory limits may apply as per RBI guidelines.",
+    "Check your account details before initiating large top-ups.",
+    "Visit your branch for further assistance.",
+    "Refer to official bank documentation for detailed limits."
+  ],
+
+  "top_up_reverted": [
+    "Dear {user_name}, a reverted top-up indicates the transaction was unsuccessful and the amount has been returned.",
+    "Please check your account statement for confirmation.",
+    "Reversals are usually processed within 3–5 working days.",
+    "If the amount is not credited, contact customer support.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Network or payment gateway issues may cause reversals.",
+    "Avoid duplicate transactions while awaiting reversal.",
+    "Visit your branch if the issue persists.",
+    "Follow up with support for updates.",
+    "Ensure correct payment details before retrying."
+  ],
+
+  "topping_up_by_card": [
+    "Dear {user_name}, you can top up your account using your debit or credit card via the mobile app.",
+    "Navigate to 'Add Money' and select 'Card' as the payment method.",
+    "Ensure your card is active and enabled for online transactions.",
+    "Enter correct card details and complete OTP verification.",
+    "Charges may apply based on card type and bank policy.",
+    "Ensure sufficient balance before initiating the top-up.",
+    "If the transaction fails, retry after some time.",
+    "Contact customer support if the issue persists.",
+    "Visit your branch for further assistance.",
+    "Check your transaction history for status updates."
+  ],
+
+  "transaction_charged_twice": [
+    "Dear {user_name}, if you notice a duplicate charge, please check your account statement for details.",
+    "Such issues may occur due to network or processing delays.",
+    "The extra amount is usually reversed within 3–5 working days.",
+    "If not reversed, contact customer support immediately.",
+    "Provide transaction ID {transaction_id} for investigation.",
+    "Avoid repeating the transaction while it is pending.",
+    "Check with the merchant for confirmation.",
+    "Visit your branch if the issue persists.",
+    "You will receive updates via SMS or email.",
+    "The bank will assist in resolving the issue promptly."
+  ],
+
+  "transfer_fee_charged": [
+    "Dear {user_name}, transfer fees may apply depending on the transaction type.",
+    "Charges vary for NEFT, RTGS, and IMPS transactions as per bank policy.",
+    "Please review applicable charges before initiating transfers.",
+    "Check your account statement for fee details.",
+    "If you believe the charge is incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Charges are subject to RBI guidelines.",
+    "Visit your branch for further clarification.",
+    "Refer to official bank documentation for fee structure.",
+    "Fees may vary based on transaction amount."
+  ],
+
+  "transfer_into_account": [
+    "Dear {user_name}, you can transfer money into your account using NEFT, RTGS, or IMPS.",
+    "Provide your account number and IFSC code to the sender.",
+    "Ensure correct details are entered to avoid delays.",
+    "IMPS transfers are usually instant.",
+    "NEFT and RTGS may take some time depending on processing.",
+    "You will receive SMS confirmation upon credit.",
+    "Check your account statement for details.",
+    "Contact customer support if funds are not received.",
+    "Visit your branch for assistance.",
+    "Keep transaction reference {transaction_id} for tracking."
+  ],
+
+  "transfer_not_received_by_recipient": [
+    "Dear {user_name}, if the recipient has not received the transfer, please check the transaction status.",
+    "Ensure beneficiary details were entered correctly.",
+    "NEFT transactions may take some time to process.",
+    "If debited, the amount will be credited or reversed accordingly.",
+    "Contact customer support with transaction ID {transaction_id}.",
+    "Ask the recipient to check their account statement.",
+    "Network delays may cause temporary issues.",
+    "Visit your branch for further assistance.",
+    "Avoid duplicate transfers while the transaction is pending.",
+    "Follow up with support for updates."
+  ],
+
+  "transfer_timing": [
+    "Dear {user_name}, transfer timings depend on the method used.",
+    "IMPS transactions are processed instantly.",
+    "NEFT transactions are processed in batches during working hours.",
+    "RTGS transactions are processed in real-time during banking hours.",
+    "Delays may occur due to network or system issues.",
+    "Check your transaction status in the app.",
+    "You will receive SMS confirmation once processed.",
+    "Contact customer support if delayed.",
+    "Visit your branch for assistance.",
+    "Refer to bank guidelines for timing details."
+  ],
+
+  "unable_to_verify_identity": [
+    "Dear {user_name}, identity verification may fail due to incorrect details.",
+    "Ensure your documents are valid and clearly uploaded.",
+    "Check if your Aadhaar/PAN details match bank records.",
+    "Retry the verification process after some time.",
+    "Ensure good network connectivity during submission.",
+    "If the issue persists, contact customer support.",
+    "Visit your branch for manual verification.",
+    "Ensure your KYC is up to date.",
+    "Follow on-screen instructions carefully.",
+    "Provide accurate information to avoid delays."
+  ],
+
+  "verify_my_identity": [
+    "Dear {user_name}, you can verify your identity via the Bank of Baroda app using KYC options.",
+    "Upload valid documents such as Aadhaar or PAN card.",
+    "Ensure details entered match official records.",
+    "OTP verification may be required.",
+    "Verification may take some time to complete.",
+    "Ensure documents are clear and readable.",
+    "Contact customer support if verification fails.",
+    "Visit your branch for manual verification if required.",
+    "Keep your documents ready before starting the process.",
+    "Follow RBI guidelines for KYC compliance."
+  ],
+  
+  "verify_source_of_funds": [
+    "Dear {user_name}, verification of source of funds is required as per regulatory guidelines.",
+    "Please provide supporting documents such as salary slips or bank statements.",
+    "Ensure all submitted documents are valid and up to date.",
+    "Upload documents via the mobile app or visit your branch.",
+    "Verification may take a few working days.",
+    "Ensure details match your account information.",
+    "Contact customer support if you face any issues.",
+    "Visit your branch for manual verification if required.",
+    "Follow RBI guidelines for compliance.",
+    "You will be notified once verification is complete."
+  ],
+
+  "verify_top_up": [
+    "Dear {user_name}, top-up verification may be required for security purposes.",
+    "Please confirm the transaction via OTP or app notification.",
+    "Ensure your registered mobile number is active.",
+    "Verification helps prevent unauthorized transactions.",
+    "Retry the process if verification fails.",
+    "Contact customer support if the issue persists.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "Visit your branch if required.",
+    "Ensure your account is active.",
+    "Follow instructions carefully during verification."
+  ],
+
+  "virtual_card_not_working": [
+    "Dear {user_name}, please ensure your virtual card is active and within validity.",
+    "Check if your card is enabled for online transactions.",
+    "Ensure sufficient balance before attempting payment.",
+    "Verify entered card details are correct.",
+    "Retry the transaction after some time.",
+    "Check for any restrictions on your account.",
+    "Contact customer support if the issue persists.",
+    "Generate a new virtual card if required.",
+    "Visit your branch for assistance.",
+    "Ensure your internet connection is stable."
+  ],
+
+  "visa_or_mastercard": [
+    "Dear {user_name}, Bank of Baroda offers cards under both Visa and Mastercard networks.",
+    "The availability depends on your account type and card variant.",
+    "Both networks are widely accepted for domestic and international transactions.",
+    "You may choose your preferred network while applying for a card.",
+    "Ensure your card is enabled for required transaction types.",
+    "Contact customer support for more details.",
+    "Visit your branch for card upgrade or replacement.",
+    "Check benefits associated with each card type.",
+    "Refer to bank documentation for detailed comparison.",
+    "Ensure your card is active before usage."
+  ],
+
+  "why_verify_identity": [
+    "Dear {user_name}, identity verification is required to comply with regulatory guidelines.",
+    "It helps ensure the security of your account and prevent fraud.",
+    "KYC verification is mandatory as per RBI regulations.",
+    "Verified accounts can access full banking services.",
+    "Ensure your documents are valid and accurate.",
+    "Verification protects your financial information.",
+    "Contact customer support for assistance if needed.",
+    "Visit your branch for manual verification.",
+    "Follow instructions carefully during the process.",
+    "You will be notified once verification is complete."
+  ],
+
+  "wrong_amount_of_cash_received": [
+    "Dear {user_name}, if you received an incorrect amount from an ATM, please report it immediately.",
+    "Retain the transaction receipt for reference.",
+    "The bank will investigate the issue promptly.",
+    "Provide transaction ID {transaction_id} for assistance.",
+    "The discrepancy will be resolved within a few working days.",
+    "Visit your nearest branch for immediate support.",
+    "Avoid leaving the ATM location without reporting.",
+    "Contact customer support for guidance.",
+    "Ensure details are accurately reported.",
+    "You will receive updates regarding the resolution."
+  ],
+
+  "wrong_exchange_rate_for_cash_withdrawal": [
+    "Dear {user_name}, exchange rates for withdrawals are based on prevailing market rates.",
+    "Differences may occur due to conversion charges and processing time.",
+    "Please review your transaction statement for details.",
+    "If you believe the rate applied is incorrect, contact customer support.",
+    "Provide transaction ID {transaction_id} for verification.",
+    "Charges may include forex markup fees.",
+    "Visit your branch for further clarification.",
+    "Refer to bank guidelines for international transactions.",
+    "Refunds, if applicable, will be processed as per policy.",
+    "Ensure awareness of applicable charges before transactions."
+  ]
+}
