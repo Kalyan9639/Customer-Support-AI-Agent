@@ -5,6 +5,11 @@ so that correct version of cuda gets installed
 """
 
 transformers
-datasets
-scikit-learn
-accelerate
+# datasets
+# scikit-learn
+# accelerate
+
+fastapi
+uvicorn
+requests
+python-dotenv
