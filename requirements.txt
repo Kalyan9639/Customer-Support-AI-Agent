@@ -1,0 +1,10 @@
+"""For those who have NVIDIA RTX 50 series, download the below version of torch and other libraries 
+so that correct version of cuda gets installed
+
+`pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128`
+"""
+
+transformers
+datasets
+scikit-learn
+accelerate
